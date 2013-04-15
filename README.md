@@ -19,15 +19,19 @@ USAGE
 =============
 
 $('ul[data-role="listview"][data-alphabet="true"]').alphabetlist();
+
 This creates an alphabetlist, and loads it from the LIs present in the ul listview.
 
 For CSS purposes, the alphabetlist is:
+
 ul[data-role="alphabetlist"]
 
 listview.alphabetlist('refresh')
+
 Re-generate the listview's correspnding alphabetlist. Useful if you have changed the data.
 
 listview.alphabetlist('click','W')
+
 Trigger a click on a specific letter.
 
 
