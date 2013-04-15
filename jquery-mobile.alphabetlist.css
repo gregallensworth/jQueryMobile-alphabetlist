@@ -1,21 +1,20 @@
-/* CSS for the alphabetlist jQuery plugin */
-
-ul[data-role="alphabetlist"] {
-    color:#333333;
-
-    position:absolute;
-    right:0px;
-    top:2.0em;
-    z-index:200;
-
-    list-style-type:none;
-
-    height:100%;
-}
-
-ul[data-role="alphabetlist"] li {
-    text-align:center;
-    font-weight:bold;
-    cursor:pointer;
-}
-
+/* CSS for the alphabetlist jQuery plugin */
+
+ul[data-role="alphabetlist"] {
+    color:#333333;
+
+    position:absolute;
+    right:0px;
+    top:2.0em;
+    z-index:200;
+
+    list-style-type:none;
+
+    height:100%;
+}
+
+ul[data-role="alphabetlist"] li {
+    text-align:center;
+    font-weight:bold;
+    cursor:pointer;
+}
